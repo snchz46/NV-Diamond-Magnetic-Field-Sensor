@@ -1,0 +1,45 @@
+# ── Personal / HR documents ──────────────────────────────────────────────────
+Onboarding/
+
+# ── PlatformIO build artifacts ────────────────────────────────────────────────
+.pio/
+.pioenvs/
+**/.pio/
+**/.pioenvs/
+*.o
+*.d
+*.a
+*.elf
+*.bin
+*.map
+*.build
+
+# ── Arduino IDE ──────────────────────────────────────────────────────────────
+build/
+**/build/
+
+# ── Autodesk Inventor ────────────────────────────────────────────────────────
+*.ide
+*.lck
+OldVersions/
+
+# ── OS & editor noise ────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*.swp
+~$*
+
+# ── Compressed archives (source files kept; large zips excluded if needed) ───
+# Uncomment to ignore zip archives:
+# *.zip
+# *.rar
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
