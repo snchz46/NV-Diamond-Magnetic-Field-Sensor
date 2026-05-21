@@ -81,8 +81,9 @@ Full schematic PDF → [`SCH_Schematic4_2026-02-13.pdf`](Ordered%20PCB/SCH_Schem
 
 ## Assembly walkthrough
 
-  <img src="docs/A-1.png" alt="Assembly Instructions" width="300"/>
-  <img src="docs/A-2.png" alt="Assembly Instructions" width="305"/>
+|  |  |
+| - | - |
+| <img src="docs/A-1.png" alt="Assembly Instructions" width="300"/> | <img src="docs/A-2.png" alt="Assembly Instructions" width="305"/> |
 
 ---
 
