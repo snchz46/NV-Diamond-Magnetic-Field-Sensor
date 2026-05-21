@@ -81,13 +81,8 @@ Full schematic PDF → [`SCH_Schematic4_2026-02-13.pdf`](Ordered%20PCB/SCH_Schem
 
 ## Assembly walkthrough
 
-<!-- PLACEHOLDER: step-by-step grid — images already exist in Design Photos/
-| Step 1 | Step 2 | Step 3 | Step 4 |
-|:------:|:------:|:------:|:------:|
-| ![](Design%20Photos/Step%201.png) | ![](Design%20Photos/Step%202.png) | ![](Design%20Photos/Step%203.png) | ![](Design%20Photos/Step%204.png) |
-| Step 5 | Step 6 | Step 7 | Step 8 |
-| ![](Design%20Photos/Step%205.png) | ![](Design%20Photos/Step%206.png) | ![](Design%20Photos/Step%207.png) | ![](Design%20Photos/Step%208.png) |
--->
+  <img src="docs/A-1.png" alt="Assembly Instructions" width="300"/>
+  <img src="docs/A-2.png" alt="Assembly Instructions" width="305"/>
 
 ---
 
